@@ -1,2 +1,1 @@
-# prepcouse-henry
-este es un repositorio del modulo 2 de henry rgil01
+este es un proyecto de una prueba de como crear un repositorio y clonarlo dese github a mi escritorio local
